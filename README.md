@@ -31,7 +31,7 @@ If you have any feedback, please reach out to us at Linkedin Deepanjal kumar
 
 **Programming Language:** PYTHON
 
-**IDE:** PYCHARM
+**IDE:** VSCODE
 
   
 ## Support
@@ -41,7 +41,7 @@ For support, contact me over linkeding Deepanjal kumar
   
 ## API Reference
 
-- [SecurityTrails](http://securitytrails.com)
+- [Hunter](https://hunter.io/)
 
   
 ## Authors
